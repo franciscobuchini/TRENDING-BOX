@@ -6,7 +6,7 @@
 }
 
 .logo {
-  height: 6em;
+  width: 80%;
   will-change: filter;
   transition: filter 300ms;
 }
